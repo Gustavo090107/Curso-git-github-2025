@@ -1,0 +1,5 @@
+LS = Lista oq esta dentro do diretorio
+
+CD = troca de diretorio
+
+PWD = Mostra o caminho do diretorio que estou
