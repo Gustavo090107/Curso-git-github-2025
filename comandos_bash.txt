@@ -7,3 +7,5 @@ PWD = Mostra o caminho do diretorio que estou
 CAT = exibe conteudo do arquivo
 
 RM = remove arquivo ou diretorio
+
+RM -RF = remove de forma recursiva e forcada todos diretorios
