@@ -13,5 +13,4 @@ Git log = Mostra todo o historico de commit
 6. git status
 7. git commit -m "mensagem"
 8. git status
-9. Volta para o passo 3
-
+9. Volta para o passo 3.
