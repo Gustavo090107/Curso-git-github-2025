@@ -1,7 +1,7 @@
-Git init.    = Cria um repositorio git na pasta atual.
-Git status   = Mostra o status de trabalho(de cada arquivo).
-Git Add nome_arquivo = adiciona arquivo para ser commitado.
-Git Commit -m 'Msg' = faz commit do que estava para ser commitado.
+Git init.   = Cria um repositorio git na pasta atual.
+Git status  = Mostra o status de trabalho(de cada arquivo).
+Git Add nome_arquivo = Adiciona arquivo para ser commitado.
+Git Commit -m 'Msg' = Faz commit do que estava para ser commitado.
 Git log = Mostra todo o historico de commit 
 
 ##  FLUXO DE TRABALHO
