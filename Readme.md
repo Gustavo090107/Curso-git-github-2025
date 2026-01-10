@@ -8,6 +8,10 @@ Confira tudo o que temos no nosso Youtube. É gratis! segue o link
 
     [curso Git 2025]
 
+Além do nosso youtube, se liga no nosso site e nossa agenda para ficar por dentro de tudo que vai rolar em 2025.
+
+[teomewhy.org]
+
 
 -------Participações: 
 
